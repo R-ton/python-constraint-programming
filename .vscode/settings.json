@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./exhaustive search/medium",
+        "./exhaustive search/easy"
+    ]
+}
